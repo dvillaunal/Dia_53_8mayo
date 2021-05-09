@@ -15,3 +15,6 @@ Ellos explican:
 No se como proceder ahí de todas formas el archivo esta en RPubs y en GitHub.
 
 no se como proceder ahí...
+
+
+"No creo que la instalación de paquetes esté soportada para otros lenguajes que no sean JavaScript o Python."
