@@ -18,3 +18,9 @@ no se como proceder ahí...
 
 
 "No creo que la instalación de paquetes esté soportada para otros lenguajes que no sean JavaScript o Python."
+
+
+
+anexo el link oficial de repl.it donde se especifica que las descargas de paquetes solo estan disponibles para Python y JavaScript:
+
+https://docs.replit.com/repls/packages
