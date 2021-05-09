@@ -13,3 +13,5 @@ Ellos explican:
 "Principalmente porque R instala paquetes en alguna carpeta del sistema, lo que no está permitido en Repl.it por cuestiones de seguridad."
 
 No se como proceder ahí de todas formas el archivo esta en RPubs y en GitHub.
+
+no se como proceder ahí...
