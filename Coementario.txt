@@ -1,0 +1,15 @@
+Profe Buscando, encontre que no se pueden instalar paquetes en R
+
+Anexo los links donde busque respuestas:
+
+1. https://replit.com/talk/ask/How-to-install-packages-in-R-using-replit/5883
+
+
+2. https://replit.com/talk/ask/Cannot-install-packages-in-R/30287
+
+
+Ellos explican:
+
+"Principalmente porque R instala paquetes en alguna carpeta del sistema, lo que no está permitido en Repl.it por cuestiones de seguridad."
+
+No se como proceder ahí de todas formas el archivo esta en RPubs y en GitHub.
